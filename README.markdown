@@ -2,7 +2,7 @@ A [Giter8][g8] template for Imperative Programming problem sheets.
 
 Template license
 ----------------
-Written in 2020 by Noam Eyal
+Written in 2020 by Noam Eyal.
 
 To the extent possible under law, the author(s) have dedicated all copyright and related
 and neighboring rights to this template to the public domain worldwide.
