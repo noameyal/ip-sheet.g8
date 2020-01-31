@@ -1,5 +1,12 @@
 A [Giter8][g8] template for Imperative Programming problem sheets.
 
+Usage:
+- Run `sbt new noameyal/ip-sheet.g8` in the the directory you want the project to be in.
+- Navigate to the new directory created.
+- Write any scala files in `src/main/scala` inside this directory.
+- To run your code, run `sbt run`.
+- To load your code into a scala shell, run `sbt console`.
+
 Template license
 ----------------
 Written in 2020 by Noam Eyal.
